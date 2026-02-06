@@ -149,14 +149,14 @@ The game board is represented as an array of 9 positions:
 
 ## 👤 Author
 
-<div align="center">
+
 
 **Vivek Utture**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivekjutture)
 [![Repository](https://img.shields.io/badge/Repository-Tic--Tac--Toe-blue?style=for-the-badge)](https://github.com/vivekjutture/Tic-Tac-Toe)
 
-</div>
+
 
 ## 🤝 Contributing
 
@@ -166,11 +166,11 @@ The game board is represented as an array of 9 positions:
 - 💡 Suggest enhancements
 - 🔧 Submit pull requests with improvements
 
-<div align="center">
+
 
 ### We appreciate every contribution! 🙌
 
-</div>
+
 
 ## 💡 Future Enhancements
 
